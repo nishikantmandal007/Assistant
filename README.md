@@ -1,4 +1,4 @@
-# Assistant
+
 
 # Personal  Assistant
 
@@ -22,7 +22,7 @@ This project is a personal voice assistant built using Python. The voice assista
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/.git
+   git clone  https://github.com/nishikantmandal007/Assistant.git
    ```
 
 2. Navigate to the project directory:
