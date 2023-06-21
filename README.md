@@ -1,6 +1,6 @@
 
 
-# Personal  Assistant
+# Seraphina 
 
 ![Personal Voice Assistant]
 
@@ -22,7 +22,7 @@ This project is a personal voice assistant built using Python. The voice assista
 
 1. Clone the repository:
    ```
-   git clone  https://github.com/nishikantmandal007/Assistant.git
+   git clone  https://github.com/nishikantmandal007/Seraphina.git
    ```
 
 2. Navigate to the project directory:
