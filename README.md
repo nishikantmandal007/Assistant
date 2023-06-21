@@ -6,7 +6,8 @@
 
 
 This project is a personal voice assistant built using Python. The voice assistant leverages the power of speech recognition and natural language processing to understand user commands and perform various tasks. It can assist you with a wide range of activities, including searching the web, retrieving information, providing weather updates, playing music, and much more.
-![Assistant](https://github.com/nishikantmandal007/Assistant/assets/113323074/ea0c77b1-3987-4b62-a348-00c1f5b3bfc8)
+![Downloader la -649278feccc9a](https://github.com/nishikantmandal007/Seraphina/assets/113323074/55ea1393-3656-4083-9de0-0bb8c2ad04b9)
+
 ## Features
 
 - **Voice Command Recognition**: The voice assistant can recognize and interpret voice commands spoken by the user.
