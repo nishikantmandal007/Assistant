@@ -1,0 +1,10 @@
+opencv-python
+pyttsx3
+pillow
+speechRecognition
+wikipedia
+requests
+pyautogui
+psutil
+roman
+wmi
