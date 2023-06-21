@@ -7,14 +7,10 @@
 
 This project is a personal voice assistant built using Python. The voice assistant leverages the power of speech recognition and natural language processing to understand user commands and perform various tasks. It can assist you with a wide range of activities, including searching the web, retrieving information, providing weather updates, playing music, and much more.
 
-<div style="position: relative; width: 100%; height: 0; padding-top: 57.0313%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmbKE4knA&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFmbKE4knA&#x2F;watch?utm_content=DAFmbKE4knA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Seraphina</a> by Nishi kant Mandal
+
+
+https://github.com/nishikantmandal007/Seraphina/assets/113323074/419a39e1-f31a-4d07-970a-3759ba9be4ff
+
 
 
 ## Features
