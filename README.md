@@ -1,7 +1,6 @@
 
 
-# Seraphina 
-
+# VocAssistant
 ![Personal Voice Assistant]
 
 
